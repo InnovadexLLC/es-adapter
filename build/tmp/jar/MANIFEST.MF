@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+es-adapter: Elasticsearch Adapter for Search, Index and aggregarion
+Implementation-Version: 0.1
+
