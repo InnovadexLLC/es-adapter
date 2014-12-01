@@ -16,3 +16,19 @@ hs_err_pid*
 *.lock
 
 *.bin
+
+*.css
+
+*.css
+
+*.htc
+
+*.js
+
+*.html
+
+.classpath
+
+.project
+
+*.prefs
